@@ -1,4 +1,4 @@
-package ddutil
+package queue
 
 import (
 	"testing"
